@@ -43,3 +43,4 @@ Temporary Items
 .apdisk
 UCI HAR Dataset/activity_labels.txt
 *.txt
+XYdata_summary.csv
